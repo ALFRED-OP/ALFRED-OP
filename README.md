@@ -2,10 +2,10 @@
 
 🧠 Computer science student <br/>
 💻 Cyber security expert <br/>
-🎨 I create themed desktop apps to stay consistent 
-🔭 I’m currently working as full stack developer 
-📫 How to reach me: [Discord](https://discord.com/users/848176011672813588)
-💬 Ask me about in DM
+🎨 I create themed desktop apps to stay consistent <br/>
+🔭 I’m currently working as full stack developer <br/>
+📫 How to reach me: [Discord](https://discord.com/users/848176011672813588) <br/>
+💬 Ask me about in DM <br/>
 😄 Pronouns: Hers
 
 
