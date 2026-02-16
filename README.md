@@ -30,5 +30,8 @@ first we build them, then we pray.
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alfred1947) 
 
-  
+
+
+  <img width="676" height="876" alt="image" src="https://github.com/user-attachments/assets/288c59c5-eb0f-4054-ba83-5d8bca45d184" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
