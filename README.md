@@ -24,7 +24,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ALFRED-OP&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Software and cathedrals are much the same thing:
+first we build them, then we pray.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ALFRED-OP&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
